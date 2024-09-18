@@ -9,7 +9,7 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
     siteTitle: `Cara`,
-    siteTitleAlt: `Tentang - Wildan Fauzy`,
+    siteTitleAlt: `About - Wildan Fauzy`,
     siteHeadline: `Hanya selembar portofolio`,
     siteUrl: `https://wildan.fauzy.web.id`,
     siteDescription: `kumpulan projek buku dan essay yang belum sempat rampung`,
