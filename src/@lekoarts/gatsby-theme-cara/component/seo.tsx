@@ -31,6 +31,7 @@ const Seo = ({ title = ``, description = ``, pathname = ``, image = ``, children
   }
   return (
     <>
+      <link rel="canonical" href="https://wildan.fauzy.web.id" />
       <html lang={siteLanguage} />
       <title>{seo.title}</title>
       <meta name="description" content={seo.description} />
